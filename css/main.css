@@ -55,6 +55,7 @@ input {
   background-color: transparent;
   border: none;
   text-align: right;
+  outline: none;
 }
 textarea {
   background-color: transparent;
@@ -63,6 +64,7 @@ textarea {
   height: 2.2em;
   text-align: right;
   overflow: hidden;
+  outline: none;
 }
 .calc-display__digits-top {
   width: 99%;
